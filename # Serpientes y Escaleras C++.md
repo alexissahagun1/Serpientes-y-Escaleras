@@ -1,7 +1,7 @@
 # Serpientes y Escaleras C++
 
 Serpientes y Escaleras C++ es una aplicación del juego de mesa serpientes y escaleras. 
-## Installacion
+## Instalación
 
 
 ```bash
